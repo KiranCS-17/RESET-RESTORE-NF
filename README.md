@@ -23,4 +23,4 @@ In that case HSS sends explicit PPR to CFX or on SBI interface it sends a notifi
 Now the CFX can user Cx-SAR with NO_ASSIGNEMNT but asking user data to HSS or
 On N70 interface reload the subscriptions with GET request
 This helps to spread the traffic uniformly across many HSS  to sync data for millions of subscribers.
-This ideas is specifically for Cx and N70 interface of IMS .This can also be applicable for N71 and Sh interface of IMS or indication to use which interface for this is totally new ( This can be checked in 3GPP and I can challenge its not there )
+This ideas is specifically for Cx and N70 interface of IMS .This can also be applicable for N71 and Sh interface of IMS or indication to use which interface for this is totally new 
