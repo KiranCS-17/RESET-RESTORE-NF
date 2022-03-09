@@ -13,7 +13,7 @@ can best serve the subsequent IMS N70/N71 API calls.
 The old HSS can also indicate the topology of available HSS pools using topoplogyURI
 the topology resource can be stored in UDSF or (N)UDR.
 HSS can explictly generate Cx-PPR and Sh-PNR to provide this restoration indication to CSCF and TAS.
-This provides smooth transition from diamter based HSS to SBI based HSS for eIMS at real time.
+This provides smooth transition from diameter based HSS to SBI based HSS for eIMS at real time.
 
 **Explicit trigger of data sync by CSCF based on indication of HSS Reset**
 --------------------------------------------------------------------------------
