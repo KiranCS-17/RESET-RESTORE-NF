@@ -1,6 +1,6 @@
 # RESET-RESTORE-NF
 
-HSS Restoration indication from diameter to SBI.
+HSS Restoration indication from diameter to SBI.( Viceversa)
 -----------------------------------------------------------------------------
 With eIMS introduction to leverage the Service Based Architecture,
 the HSS handling EPC+IMS can under go upgrade or maintenence for patch updates
