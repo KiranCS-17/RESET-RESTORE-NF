@@ -18,7 +18,7 @@ This provides smooth transition from diamter based HSS to SBI based HSS for eIMS
 **Explicit trigger of data sync by CSCF based on indication of HSS Reset**
 --------------------------------------------------------------------------------
 
-Means HSS will indicate to CSCF that data between HSS and CSCF needs to be resynchronized due to network failures
+HSS will indicate to CSCF that data between HSS and CSCF needs to be resynchronized due to network failures
 In that case HSS sends explicit PPR to CFX or on SBI interface it sends a notification via NRF triggering REST operation
 Now the CFX can user Cx-SAR with NO_ASSIGNEMNT but asking user data to HSS or
 On N70 interface reload the subscriptions with GET request
