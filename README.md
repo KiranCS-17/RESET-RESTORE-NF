@@ -4,9 +4,9 @@ HSS Restoration indication from diameter to SBI.( Viceversa)
 -----------------------------------------------------------------------------
 With eIMS introduction to leverage the Service Based Architecture,
 the HSS handling EPC+IMS can under go upgrade or maintenence for patch updates
-in that case thre needs a indication to the IMS peers of HSS like CFX or TAS
+in that case there needs a indication to the IMS peers of HSS like CFX or TAS
 for restoration.
-The old HSS indicates to the diameter peer via new AVP telling that it no more avaialable
+The old HSS indicates to the diameter peer via new AVP telling that it is no more available
 to serve the requests and provides a SBI based HSS end point to send the subsequent request on SBI interface
 Since HSS has already learnt the CFX and its capabilities, it knows which similar SBI based HSS
 can best serve the subsequent IMS N70/N71 API calls.
