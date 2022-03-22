@@ -24,3 +24,4 @@ Now the CFX can user Cx-SAR with NO_ASSIGNEMNT but asking user data to HSS or
 On N70 interface reload the subscriptions with GET request
 This helps to spread the traffic uniformly across many HSS  to sync data for millions of subscribers.
 This ideas is specifically for Cx and N70 interface of IMS .This can also be applicable for N71 and Sh interface of IMS or indication to use which interface for this is totally new 
+the Sync Can happen via default / configured callback URIs
